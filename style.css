@@ -19,14 +19,14 @@ h2 {
   font-size: 250%;
   font-weight: 700;
   text-align: center;
-  padding-top: 2%;
+  padding-top: 5%;
   color: #F5F5F5;
 }
 
 h3 {
   font-size: 175%;
   line-height: 150%;
-  padding: 5% 0;
+  padding: 5% 0 1% 0;
   font-weight: 400;
   color: #F5F5F5;
 }
@@ -37,7 +37,6 @@ p {
   font-size: 160%;
   line-height: 150%;
   padding: 3%;
-  text-indent: 2%;
   text-align: justify;
 }
 
@@ -142,7 +141,7 @@ nav ul li a:hover {
 }
 
 .one-fourth i {
-  background-color: #F0F0F0;
+  color: #F0F0F0;
   font-size: 500%;
   padding: 13% 0 4% 0;
 }
